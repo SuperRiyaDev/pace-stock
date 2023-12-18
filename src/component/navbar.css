@@ -1,0 +1,7 @@
+.scrolled{
+    background-color: rgba(232, 232, 232, 0.7) !important;
+}
+
+.unscrolled{
+    background-color: transparent !important;
+}
